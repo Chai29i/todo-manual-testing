@@ -1,4 +1,4 @@
-# 🧪 Manual Testing Report – ToDoMVC React App
+# Manual Testing Report – ToDoMVC React App
 
 **Test URL**: https://todomvc.com/examples/react  
 **Test Type**: Manual Functional & UI Testing  
@@ -7,14 +7,14 @@
 
 ---
 
-## ✅ Test Scope
+## Test Scope
 - Add/Edit/Delete Tasks
 - Task Completion and Filters
 - UI/UX Behavior
 
 ---
 
-## 📋 Test Cases
+## Test Cases
 
 | Test Case ID | Scenario             | Steps | Expected Result | Status |
 |--------------|----------------------|-------|------------------|--------|
@@ -26,9 +26,9 @@
 
 ---
 
-## 🐞 Bug Reports
+## Bug Reports
 
-### 🐛 Bug #001 – Blank Task Not Handled
+### Bug #001 – Blank Task Not Handled
 
 - **Steps**: Press Enter without typing anything
 - **Expected**: App should warn or block empty task
@@ -37,7 +37,7 @@
 
 ---
 
-## 📌 Summary
+## Summary
 
 - **Total Test Cases**: 5  
 - **Passed**: 5  
